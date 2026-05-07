@@ -4,20 +4,6 @@ A passionate **Frontend Developer** and **Web Developer** who enjoys building in
 
 ---
 
-### 💫 About Me
-
-I'm a software developer with a strong focus on crafting modern web applications. My journey involves exploring the full spectrum of web development, but I found my true calling in creating beautiful interfaces with **Next.js** and **Tailwind CSS**.
-
-Lately, I’ve been focused on:
-* 🏗️ **Structuring modern web applications** with Next.js App Router.
-* 🎨 **Building interactive UI/UX** using Framer Motion and Magic UI.
-* ⚙️ **Developing robust backends** with Node.js, Express, and Laravel.
-* 🔐 **Implementing secure authentication** and efficient database schemas.
-
-I enjoy collaborating on projects that challenge me to learn new perspectives and refine my craft—because building software is not just about code, but solving meaningful problems with care.
-
----
-
 ### 🛠 My Tech Stack
 
 **Frontend & Logic**
@@ -34,3 +20,16 @@ I enjoy collaborating on projects that challenge me to learn new perspectives an
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 ---
+
+### 💫 About Me
+
+I'm a software developer with a strong focus on crafting modern web applications. My journey involves exploring the full spectrum of web development, but I found my true calling in creating beautiful interfaces with **Next.js** and **Tailwind CSS**.
+
+Lately, I’ve been focused on:
+* 🏗️ **Structuring modern web applications** with Next.js App Router.
+* 🎨 **Building interactive UI/UX** using Framer Motion and Magic UI.
+* ⚙️ **Developing robust backends** with Node.js, Express, and Laravel.
+* 🔐 **Implementing secure authentication** and efficient database schemas.
+
+I enjoy collaborating on projects that challenge me to learn new perspectives and refine my craft—because building software is not just about code, but solving meaningful problems with care.
+
